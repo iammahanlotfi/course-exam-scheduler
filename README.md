@@ -483,4 +483,5 @@ https://course-exam-scheduler-next.vercel.app/
   "maxCoursesPerSemester": 5
 }
 
-    {"id":"CS102","name":"Data Structures","cre    {"id":"CS103","n
+پایان.
+

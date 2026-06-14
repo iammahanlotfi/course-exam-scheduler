@@ -1,4 +1,4 @@
-مشاهده پروژه : https://course-exam-scheduler-next.vercel.app/
+مشاهده پروژه : https://course-exam-scheduler-next.vercel.app/ (اگر سایت باز نشد از وی پی ان استفاده کنید)
 
 # سامانه یکپارچه انتخاب واحد و زمان‌بندی امتحانات
 
